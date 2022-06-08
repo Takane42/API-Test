@@ -1,0 +1,23 @@
+{
+  "name": "api-nata",
+  "version": "1.0.0",
+  "description": "Simple GET API using ExpressJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 'Gajadi Ada Test Bro' && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Takane42/API-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Takane42/API-Test/issues"
+  },
+  "homepage": "https://github.com/Takane42/API-Test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
